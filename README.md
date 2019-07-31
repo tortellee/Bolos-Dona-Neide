@@ -16,17 +16,14 @@
 <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> body
 <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> h1
 <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> h2
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> strong
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> body
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> img
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> p
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> a
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> em
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> li
-
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> ul
-<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> br
 <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> hr
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> img
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> a
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> b
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> i
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> li
+<img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> br
+
 
 ---
 
